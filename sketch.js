@@ -156,6 +156,7 @@ inp.mousePressed(resetValue)
  }
 
 function draw() {
+  console.log(touches)
   if(mousePressedOver(nnbutton)){
      screenNN();
 
