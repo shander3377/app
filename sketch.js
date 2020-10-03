@@ -431,7 +431,7 @@ var something = (function () {
         Body: `${finalPin} ${finalPin2} ${finalPin3} ${finalItem} ${finaldesc}`,
 
       }).then(
-        message => alert("mail sent successfully")
+        message => alert("Your Complaint has been sent")
       );
 
 
