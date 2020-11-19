@@ -424,7 +424,7 @@ var something = (function () {
       Email.send({
         Host: "smtp.gmail.com",
         Username: "agrimagwarwal@gmail.com",
-        Password: "{Pan3377}",
+        Password: "Baba@amma1",
         To: 'agrim310108@gmail.com',
         From: "agrimagarwal@gmail.com",
         Subject: "Complain letter",
